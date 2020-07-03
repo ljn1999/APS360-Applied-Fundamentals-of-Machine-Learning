@@ -15,6 +15,7 @@ Lab1:
       -Evaluate different ANN configuations.
 
 Lab2: 
+
       -Understand at a high level the training loop for a machine learning model;
 
       -Understand the distinction between training, validation, and test data;
