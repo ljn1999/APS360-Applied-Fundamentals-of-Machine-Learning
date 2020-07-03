@@ -2,49 +2,58 @@
 ## Description
 Course labs of APS360 (Winter 2020) at the University of Toronto.
 
-Lab1: Perform basic PyTorch tensor operations;
+Lab1: 
 
-      Load data into PyTorch;
-      
-      Configure an Artificial Neural Network (ANN) using PyTorch;
-      
-      Train ANNs using PyTorch;
-      
-      Evaluate different ANN configuations.
+      -Perform basic PyTorch tensor operations;
 
-Lab2: Understand at a high level the training loop for a machine learning model;
+      -Load data into PyTorch;
+      
+      -Configure an Artificial Neural Network (ANN) using PyTorch;
+      
+      -Train ANNs using PyTorch;
+      
+      -Evaluate different ANN configuations.
 
-      Understand the distinction between training, validation, and test data;
-      
-      Understand the concepts of overfitting and underfitting;
-      
-      Investigate how different hyperparameters, such as learning rate and batch size, affect the success of training;
-      
-      Compare an ANN (aka Multi-Layer Perceptron) with a CNN.
+Lab2: 
+      -Understand at a high level the training loop for a machine learning model;
 
-Lab3: Generate and preprocess my own data;
+      -Understand the distinction between training, validation, and test data;
+      
+      -Understand the concepts of overfitting and underfitting;
+      
+      -Investigate how different hyperparameters, such as learning rate and batch size, affect the success of training;
+      
+      -Compare an ANN (aka Multi-Layer Perceptron) with a CNN.
 
-      Load and split data for training, validation and testing;
+Lab3: 
       
-      Train a Convolutional Neural Network;
-      
-      Apply transfer learning to improve my model.
+      -Generate and preprocess my own data;
 
-Lab4: Clean and process continuous and categorical data for machine learning;
+      -Load and split data for training, validation and testing;
+      
+      -Train a Convolutional Neural Network;
+      
+      -Apply transfer learning to improve my model.
 
-      Implement an autoencoder that takes continuous and categorical (one-hot) inputs;
+Lab4: 
       
-      Tune the hyperparameters of an autoencoder;
-      
-      Use baseline models to help interpret model performance.
+      -Clean and process continuous and categorical data for machine learning;
 
-Lab5: Clean and process text data for machine learning;
+      -Implement an autoencoder that takes continuous and categorical (one-hot) inputs;
+      
+      -Tune the hyperparameters of an autoencoder;
+      
+      -Use baseline models to help interpret model performance.
 
-      Understand and implement a character-level recurrent neural network;
+Lab5: 
+
+      -Clean and process text data for machine learning;
+
+      -Understand and implement a character-level recurrent neural network;
       
-      Use torchtext to build recurrent neural network models;
+      -Use torchtext to build recurrent neural network models;
       
-      Understand batching for a recurrent neural network, and use torchtext to implement RNN batching.
+      -Understand batching for a recurrent neural network, and use torchtext to implement RNN batching.
 
 ## Contact
 If you find any bugs in my code, or you have any questions, or you just want to chat, please do not hesitate to contact me :)
